@@ -1,0 +1,4 @@
+1. Use your own ApiKey, otherwise this code will not work.
+2. Create a file with named ".env.local" outside the Src or Public folder.
+3. Inside this ".env.local" file write the below command.
+4. REACT_APP_NEWS_API = "Your ApiKey"
